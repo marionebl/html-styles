@@ -34,6 +34,6 @@
     "postcss": "^6.0.15",
     "postcss-selector-matches": "^3.0.1",
     "postcss-selector-parser": "^3.1.1",
-    "puppeteer": "^0.13.0"
+    "puppeteer": "^1.13.0"
   }
 }
